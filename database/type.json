@@ -1,0 +1,11 @@
+{
+  "temperature": {
+    "id": "Number",
+    "isActive": "Boolean",
+    "name": "String",
+    "temperature": "Number",
+    "humidity": "Number",
+    "pressure": "Number",
+    "date": "Date"
+  }
+}

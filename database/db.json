@@ -1,0 +1,427 @@
+{
+  "temperature": [
+    {
+      "id": 1,
+      "name": "AirCon 1",
+      "isActive": false,
+      "temperature": 25.7922,
+      "humidity": 49.2114,
+      "pressure": 1002.4979,
+      "date": "2018-06-07T08:00:34"
+    },
+    {
+      "id": 5,
+      "name": "AirCon 5",
+      "isActive": false,
+      "temperature": 26.4481,
+      "humidity": 34.9238,
+      "pressure": 994.811,
+      "date": "2018-05-06T10:24:42"
+    },
+    {
+      "id": 3,
+      "name": "AirCon 3",
+      "isActive": true,
+      "temperature": 23.1376,
+      "humidity": 58.7554,
+      "pressure": 1028.6027,
+      "date": "2018-01-07T07:09:16"
+    },
+    {
+      "id": 4,
+      "name": "AirCon 4",
+      "isActive": false,
+      "temperature": 23.3886,
+      "humidity": 42.4629,
+      "pressure": 994.5477,
+      "date": "2018-07-18T08:10:31"
+    },
+    {
+      "id": 2,
+      "name": "AirCon 2",
+      "isActive": true,
+      "temperature": 26.1148,
+      "humidity": 78.8332,
+      "pressure": 965.5024,
+      "date": "2017-08-05T11:00:21"
+    },
+    {
+      "id": 2,
+      "name": "AirCon 2",
+      "isActive": false,
+      "temperature": 26.1963,
+      "humidity": 66.9182,
+      "pressure": 988.98,
+      "date": "2018-04-07T05:16:56"
+    },
+    {
+      "id": 5,
+      "name": "AirCon 5",
+      "isActive": false,
+      "temperature": 26.0326,
+      "humidity": 19.0321,
+      "pressure": 986.7316,
+      "date": "2018-05-11T02:49:56"
+    },
+    {
+      "id": 3,
+      "name": "AirCon 3",
+      "isActive": true,
+      "temperature": 23.1878,
+      "humidity": 21.5169,
+      "pressure": 1000.8335,
+      "date": "2017-06-19T10:46:29"
+    },
+    {
+      "id": 2,
+      "name": "AirCon 2",
+      "isActive": false,
+      "temperature": 20.4422,
+      "humidity": 1.8974,
+      "pressure": 1042.1056,
+      "date": "2018-06-21T04:35:47"
+    },
+    {
+      "id": 6,
+      "name": "AirCon 6",
+      "isActive": false,
+      "temperature": 20.0939,
+      "humidity": 86.8278,
+      "pressure": 987.1107,
+      "date": "2017-05-19T07:58:48"
+    },
+    {
+      "id": 6,
+      "name": "AirCon 6",
+      "isActive": false,
+      "temperature": 23.3651,
+      "humidity": 44.6851,
+      "pressure": 959.4486,
+      "date": "2017-10-20T08:19:02"
+    },
+    {
+      "id": 2,
+      "name": "AirCon 2",
+      "isActive": false,
+      "temperature": 25.387,
+      "humidity": 14.8832,
+      "pressure": 957.6079,
+      "date": "2017-12-22T09:04:20"
+    },
+    {
+      "id": 2,
+      "name": "AirCon 2",
+      "isActive": false,
+      "temperature": 20.0781,
+      "humidity": 10.5861,
+      "pressure": 951.1873,
+      "date": "2018-04-01T01:32:07"
+    },
+    {
+      "id": 5,
+      "name": "AirCon 5",
+      "isActive": false,
+      "temperature": 24.5807,
+      "humidity": 59.7418,
+      "pressure": 1008.0117,
+      "date": "2017-11-13T12:22:54"
+    },
+    {
+      "id": 4,
+      "name": "AirCon 4",
+      "isActive": false,
+      "temperature": 27.2259,
+      "humidity": 7.2989,
+      "pressure": 983.9497,
+      "date": "2017-09-14T07:26:05"
+    },
+    {
+      "id": 1,
+      "name": "AirCon 1",
+      "isActive": false,
+      "temperature": 26.934,
+      "humidity": 31.4901,
+      "pressure": 1020.1628,
+      "date": "2017-12-15T04:37:09"
+    },
+    {
+      "id": 5,
+      "name": "AirCon 5",
+      "isActive": false,
+      "temperature": 28.3852,
+      "humidity": 45.9103,
+      "pressure": 1013.4771,
+      "date": "2017-04-13T11:40:44"
+    },
+    {
+      "id": 5,
+      "name": "AirCon 5",
+      "isActive": false,
+      "temperature": 25.6299,
+      "humidity": 70.6851,
+      "pressure": 1044.6063,
+      "date": "2018-07-07T04:14:33"
+    },
+    {
+      "id": 5,
+      "name": "AirCon 5",
+      "isActive": false,
+      "temperature": 21.1802,
+      "humidity": 51.1783,
+      "pressure": 1040.9731,
+      "date": "2018-02-08T12:44:03"
+    },
+    {
+      "id": 6,
+      "name": "AirCon 6",
+      "isActive": false,
+      "temperature": 20.9036,
+      "humidity": 26.3526,
+      "pressure": 975.6032,
+      "date": "2017-05-21T04:47:17"
+    },
+    {
+      "id": 4,
+      "name": "AirCon 4",
+      "isActive": false,
+      "temperature": 26.1783,
+      "humidity": 46.5068,
+      "pressure": 1021.9868,
+      "date": "2017-09-06T10:19:35"
+    },
+    {
+      "id": 3,
+      "name": "AirCon 3",
+      "isActive": true,
+      "temperature": 20.3122,
+      "humidity": 27.4729,
+      "pressure": 988.3883,
+      "date": "2018-04-23T04:39:20"
+    },
+    {
+      "id": 1,
+      "name": "AirCon 1",
+      "isActive": true,
+      "temperature": 21.9269,
+      "humidity": 61.0878,
+      "pressure": 961.3551,
+      "date": "2018-08-10T08:20:23"
+    },
+    {
+      "id": 2,
+      "name": "AirCon 2",
+      "isActive": true,
+      "temperature": 21.013,
+      "humidity": 91.9775,
+      "pressure": 989.0533,
+      "date": "2017-08-01T11:13:23"
+    },
+    {
+      "id": 2,
+      "name": "AirCon 2",
+      "isActive": true,
+      "temperature": 25.1553,
+      "humidity": 54.3613,
+      "pressure": 994.307,
+      "date": "2018-02-04T01:03:59"
+    },
+    {
+      "id": 2,
+      "name": "AirCon 2",
+      "isActive": true,
+      "temperature": 29.1427,
+      "humidity": 68.4909,
+      "pressure": 971.3515,
+      "date": "2017-09-30T01:57:47"
+    },
+    {
+      "id": 2,
+      "name": "AirCon 2",
+      "isActive": false,
+      "temperature": 20.8186,
+      "humidity": 53.95,
+      "pressure": 1032.7149,
+      "date": "2017-03-04T02:39:57"
+    },
+    {
+      "id": 6,
+      "name": "AirCon 6",
+      "isActive": true,
+      "temperature": 22.46,
+      "humidity": 68.4957,
+      "pressure": 955.8309,
+      "date": "2018-08-04T11:03:54"
+    },
+    {
+      "id": 4,
+      "name": "AirCon 4",
+      "isActive": true,
+      "temperature": 21.9706,
+      "humidity": 26.4455,
+      "pressure": 965.0459,
+      "date": "2018-11-09T09:35:08"
+    },
+    {
+      "id": 2,
+      "name": "AirCon 2",
+      "isActive": true,
+      "temperature": 27.8836,
+      "humidity": 95.3392,
+      "pressure": 973.4155,
+      "date": "2017-06-20T07:48:41"
+    },
+    {
+      "id": 5,
+      "name": "AirCon 5",
+      "isActive": true,
+      "temperature": 28.0875,
+      "humidity": 5.1243,
+      "pressure": 956.7481,
+      "date": "2017-07-01T02:24:32"
+    },
+    {
+      "id": 6,
+      "name": "AirCon 6",
+      "isActive": false,
+      "temperature": 26.6098,
+      "humidity": 90.1526,
+      "pressure": 1021.9071,
+      "date": "2018-10-18T06:43:20"
+    },
+    {
+      "id": 1,
+      "name": "AirCon 1",
+      "isActive": false,
+      "temperature": 20.1343,
+      "humidity": 50.4423,
+      "pressure": 978.242,
+      "date": "2018-06-18T06:53:40"
+    },
+    {
+      "id": 4,
+      "name": "AirCon 4",
+      "isActive": true,
+      "temperature": 24.8158,
+      "humidity": 22.0404,
+      "pressure": 996.9751,
+      "date": "2017-02-24T11:24:41"
+    },
+    {
+      "id": 4,
+      "name": "AirCon 4",
+      "isActive": false,
+      "temperature": 25.42,
+      "humidity": 64.3231,
+      "pressure": 1035.538,
+      "date": "2017-04-03T02:14:42"
+    },
+    {
+      "id": 4,
+      "name": "AirCon 4",
+      "isActive": false,
+      "temperature": 24.6858,
+      "humidity": 80.1916,
+      "pressure": 992.9864,
+      "date": "2018-01-15T11:34:10"
+    },
+    {
+      "id": 6,
+      "name": "AirCon 6",
+      "isActive": false,
+      "temperature": 21.862,
+      "humidity": 28.1665,
+      "pressure": 1049.2528,
+      "date": "2017-08-31T05:49:24"
+    },
+    {
+      "id": 2,
+      "name": "AirCon 2",
+      "isActive": true,
+      "temperature": 27.157,
+      "humidity": 35.102,
+      "pressure": 984.5316,
+      "date": "2017-04-22T09:52:00"
+    },
+    {
+      "id": 4,
+      "name": "AirCon 4",
+      "isActive": false,
+      "temperature": 22.6898,
+      "humidity": 37.2141,
+      "pressure": 991.5155,
+      "date": "2017-04-02T01:29:48"
+    },
+    {
+      "id": 4,
+      "name": "AirCon 4",
+      "isActive": false,
+      "temperature": 27.7847,
+      "humidity": 33.4903,
+      "pressure": 960.5386,
+      "date": "2018-09-17T03:07:20"
+    },
+    {
+      "id": 5,
+      "name": "AirCon 5",
+      "isActive": false,
+      "temperature": 25.7222,
+      "humidity": 40.9606,
+      "pressure": 985.6029,
+      "date": "2017-10-19T07:04:47"
+    },
+    {
+      "id": 3,
+      "name": "AirCon 3",
+      "isActive": false,
+      "temperature": 22.415,
+      "humidity": 88.7616,
+      "pressure": 1043.7211,
+      "date": "2018-10-17T10:48:31"
+    },
+    {
+      "id": 2,
+      "name": "AirCon 2",
+      "isActive": true,
+      "temperature": 21.4373,
+      "humidity": 3.5834,
+      "pressure": 964.4766,
+      "date": "2017-04-16T02:19:59"
+    },
+    {
+      "id": 6,
+      "name": "AirCon 6",
+      "isActive": false,
+      "temperature": 25.4924,
+      "humidity": 64.7136,
+      "pressure": 965.8449,
+      "date": "2017-02-05T02:39:55"
+    },
+    {
+      "id": 4,
+      "name": "AirCon 4",
+      "isActive": true,
+      "temperature": 26.4846,
+      "humidity": 36.297,
+      "pressure": 968.7928,
+      "date": "2018-02-26T03:50:44"
+    },
+    {
+      "id": 4,
+      "name": "AirCon 4",
+      "isActive": true,
+      "temperature": 26.8832,
+      "humidity": 63.7002,
+      "pressure": 997.6737,
+      "date": "2017-10-12T12:33:43"
+    },
+    {
+      "id": 1,
+      "name": "AirCon 1",
+      "isActive": false,
+      "temperature": 27.0269,
+      "humidity": 35.9819,
+      "pressure": 1003.7044,
+      "date": "2018-10-03T02:41:33"
+    }
+  ]
+}
