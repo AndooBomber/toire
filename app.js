@@ -1,6 +1,49 @@
 const cac = require("cac");
 const cli = cac();
 
+const testData = [
+  {
+    time: 0.0,
+    data: {
+      id: { type: "static", value: 1 },
+      isActive: { type: "boolRandom", per: 40 },
+      date: { type: "date" }
+    }
+  },
+  {
+    time: 6.0,
+    data: {
+      id: { type: "static", value: 1 },
+      isActive: { type: "boolRandom", per: 40 },
+      date: { type: "date" }
+    }
+  },
+  {
+    time: 12.0,
+    data: {
+      id: { type: "static", value: 1 },
+      isActive: { type: "boolRandom", per: 40 },
+      date: { type: "date" }
+    }
+  },
+  {
+    time: 18.0,
+    data: {
+      id: { type: "static", value: 1 },
+      isActive: { type: "boolRandom", per: 40 },
+      date: { type: "date" }
+    }
+  },
+  {
+    time: 24.0,
+    data: {
+      id: { type: "static", value: 1 },
+      isActive: { type: "boolRandom", per: 40 },
+      date: { type: "date" }
+    }
+  }
+];
+
 cli.command(
   "server",
   {
@@ -11,7 +54,8 @@ cli.command(
   },
   async (input, flag) => {
     if (flag.mock) {
-      require("./mock/generator");
+      const pub = require("./mock/generator");
+      pub.publish(testData, "toire", 10);
     }
 
     let db,

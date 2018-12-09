@@ -13,49 +13,6 @@ function FloatRandom(min = 0.0, max = 10.0, fix = 4) {
   return (Math.random() * (max + 1 - min) + min).toFixed(fix);
 }
 
-const testData = [
-  {
-    time: 0.0,
-    data: {
-      id: { type: "static", value: 1 },
-      isActive: { type: "boolRandom", per: 40 },
-      date: { type: "date" }
-    }
-  },
-  {
-    time: 6.0,
-    data: {
-      id: { type: "static", value: 1 },
-      isActive: { type: "boolRandom", per: 40 },
-      date: { type: "date" }
-    }
-  },
-  {
-    time: 12.0,
-    data: {
-      id: { type: "static", value: 1 },
-      isActive: { type: "boolRandom", per: 40 },
-      date: { type: "date" }
-    }
-  },
-  {
-    time: 18.0,
-    data: {
-      id: { type: "static", value: 1 },
-      isActive: { type: "boolRandom", per: 40 },
-      date: { type: "date" }
-    }
-  },
-  {
-    time: 24.0,
-    data: {
-      id: { type: "static", value: 1 },
-      isActive: { type: "boolRandom", per: 40 },
-      date: { type: "date" }
-    }
-  }
-];
-
 require("./broker");
 const mqtt = require("mqtt");
 const client = mqtt.connect({
@@ -148,4 +105,4 @@ function orgFloor(value, base) {
   return Math.floor(value * base) / base;
 }
 
-hokan(testData, "toire", 10);
+module.exports.publish = hokan;
